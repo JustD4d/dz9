@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2024-01-15T08:30:00",
+    "signature": "Malware Detection",
+    "severity": "High",
+    "source_ip": "192.168.1.100",
+    "destination_ip": "10.0.0.5"
+  },
+  {
+    "timestamp": "2024-01-15T09:15:00",
+    "signature": "Brute Force Attack",
+    "severity": "Medium",
+    "source_ip": "203.0.113.25",
+    "destination_ip": "192.168.1.50"
+  },
+  {
+    "timestamp": "2024-01-15T10:45:00",
+    "signature": "SQL Injection Attempt",
+    "severity": "Critical",
+    "source_ip": "198.51.100.10",
+    "destination_ip": "10.0.0.10"
+  },
+  {
+    "timestamp": "2024-01-15T11:20:00",
+    "signature": "Malware Detection",
+    "severity": "High",
+    "source_ip": "192.168.1.100",
+    "destination_ip": "10.0.0.5"
+  },
+  {
+    "timestamp": "2024-01-15T12:05:00",
+    "signature": "Phishing Attempt",
+    "severity": "Low",
+    "source_ip": "203.0.113.50",
+    "destination_ip": "192.168.1.100"
+  },
+  {
+    "timestamp": "2024-01-15T13:30:00",
+    "signature": "DDoS Attack",
+    "severity": "Critical",
+    "source_ip": "198.51.100.25",
+    "destination_ip": "10.0.0.1"
+  },
+  {
+    "timestamp": "2024-01-15T14:15:00",
+    "signature": "Brute Force Attack",
+    "severity": "Medium",
+    "source_ip": "203.0.113.25",
+    "destination_ip": "192.168.1.50"
+  },
+  {
+    "timestamp": "2024-01-15T15:40:00",
+    "signature": "Malware Detection",
+    "severity": "High",
+    "source_ip": "192.168.1.75",
+    "destination_ip": "10.0.0.8"
+  },
+  {
+    "timestamp": "2024-01-15T16:25:00",
+    "signature": "SQL Injection Attempt",
+    "severity": "Critical",
+    "source_ip": "198.51.100.10",
+    "destination_ip": "10.0.0.10"
+  },
+  {
+    "timestamp": "2024-01-15T17:10:00",
+    "signature": "Phishing Attempt",
+    "severity": "Low",
+    "source_ip": "203.0.113.75",
+    "destination_ip": "192.168.1.120"
+  }
+]
